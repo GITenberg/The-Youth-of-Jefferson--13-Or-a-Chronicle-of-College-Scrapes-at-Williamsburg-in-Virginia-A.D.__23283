@@ -1,0 +1,32 @@
+_repo: The-Youth-of-Jefferson--13-Or-a-Chronicle-of-College-Scrapes-at-Williamsburg-in-Virginia-A.D.__23283
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooke, John Esten
+    aliases:
+    - Effingham, C.
+    - Todkill, Anas
+    birthdate: 1830
+    deathdate: 1886
+    gutenberg_agent_id: '2736'
+    url: http://www.gutenberg.org/2009/agents/2736
+    wikipedia: http://en.wikipedia.org/wiki/John_Esten_Cooke
+description: ''
+gutenberg_issued: '2007-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23283'
+  lccn: 06027184
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jefferson, Thomas, 1743-1826 -- Fiction'
+- !lcc 'PS'
+title: "The Youth of Jefferson\r\nOr, a Chronicle of College Scrapes at Williamsburg,\
+  \ in Virginia, A.D. 1764"
+url: http://www.gutenberg.org/ebooks/23283
