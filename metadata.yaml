@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2736
     wikipedia: http://en.wikipedia.org/wiki/John_Esten_Cooke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23283#The-Youth-of-Jefferson--13-Or-a-Chronicle-of-College-Scrapes-at-Williamsburg-in-Virginia-A.D._
 gutenberg_issued: '2007-11-01'
 gutenberg_type: Text
 identifiers:
